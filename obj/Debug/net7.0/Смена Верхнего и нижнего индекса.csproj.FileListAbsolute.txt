@@ -1,0 +1,15 @@
+/Users/galkersteammain/Projects/Смена Верхнего и нижнего индекса/Смена Верхнего и нижнего индекса/bin/Debug/net7.0/Смена Верхнего и нижнего индекса
+/Users/galkersteammain/Projects/Смена Верхнего и нижнего индекса/Смена Верхнего и нижнего индекса/bin/Debug/net7.0/Смена Верхнего и нижнего индекса.deps.json
+/Users/galkersteammain/Projects/Смена Верхнего и нижнего индекса/Смена Верхнего и нижнего индекса/bin/Debug/net7.0/Смена Верхнего и нижнего индекса.runtimeconfig.json
+/Users/galkersteammain/Projects/Смена Верхнего и нижнего индекса/Смена Верхнего и нижнего индекса/bin/Debug/net7.0/Смена Верхнего и нижнего индекса.dll
+/Users/galkersteammain/Projects/Смена Верхнего и нижнего индекса/Смена Верхнего и нижнего индекса/bin/Debug/net7.0/Смена Верхнего и нижнего индекса.pdb
+/Users/galkersteammain/Projects/Смена Верхнего и нижнего индекса/Смена Верхнего и нижнего индекса/obj/Debug/net7.0/Смена Верхнего и нижнего индекса.csproj.AssemblyReference.cache
+/Users/galkersteammain/Projects/Смена Верхнего и нижнего индекса/Смена Верхнего и нижнего индекса/obj/Debug/net7.0/Смена Верхнего и нижнего индекса.GeneratedMSBuildEditorConfig.editorconfig
+/Users/galkersteammain/Projects/Смена Верхнего и нижнего индекса/Смена Верхнего и нижнего индекса/obj/Debug/net7.0/Смена Верхнего и нижнего индекса.AssemblyInfoInputs.cache
+/Users/galkersteammain/Projects/Смена Верхнего и нижнего индекса/Смена Верхнего и нижнего индекса/obj/Debug/net7.0/Смена Верхнего и нижнего индекса.AssemblyInfo.cs
+/Users/galkersteammain/Projects/Смена Верхнего и нижнего индекса/Смена Верхнего и нижнего индекса/obj/Debug/net7.0/Смена Верхнего и нижнего индекса.csproj.CoreCompileInputs.cache
+/Users/galkersteammain/Projects/Смена Верхнего и нижнего индекса/Смена Верхнего и нижнего индекса/obj/Debug/net7.0/Смена Верхнего и нижнего индекса.dll
+/Users/galkersteammain/Projects/Смена Верхнего и нижнего индекса/Смена Верхнего и нижнего индекса/obj/Debug/net7.0/refint/Смена Верхнего и нижнего индекса.dll
+/Users/galkersteammain/Projects/Смена Верхнего и нижнего индекса/Смена Верхнего и нижнего индекса/obj/Debug/net7.0/Смена Верхнего и нижнего индекса.pdb
+/Users/galkersteammain/Projects/Смена Верхнего и нижнего индекса/Смена Верхнего и нижнего индекса/obj/Debug/net7.0/Смена Верхнего и нижнего индекса.genruntimeconfig.cache
+/Users/galkersteammain/Projects/Смена Верхнего и нижнего индекса/Смена Верхнего и нижнего индекса/obj/Debug/net7.0/ref/Смена Верхнего и нижнего индекса.dll
